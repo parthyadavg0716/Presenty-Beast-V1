@@ -1,0 +1,10 @@
+{
+  "name": "Presenty Beast",
+  "short_name": "Beast",
+  "description": "Premium AI Face Attendance System by Parth Vishnu Yadav",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00ff96",
+  "orientation": "portrait"
+}
